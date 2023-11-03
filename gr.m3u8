@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ERT1 HD" tvg-id="ert.gr" group-title="Greece" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT1 HD
+#EXTINF:-1 tvg-name="ERT1 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT1 HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="ERT2 HD" tvg-id="ert.gr" group-title="Greece" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT2 HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
@@ -17,31 +17,5 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/p
 https://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-name="Thraki Nea HD" tvg-id="star.gr" group-title="Greece" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",Thraki Net HD
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/daserstehd.png",Das Erste HD
-https://mcdn.daserste.de/daserste/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfhd.png",ZDF HD
-https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/3sat.png",3sat
-https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/artehd.png",ARTE HD
-https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
-#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ardalpha.png",ARD-alpha
-https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
-#EXTINF:-1 tvg-name="ZDFneo HD" tvg-id="ZDFneo.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfneohd.png",ZDFneo HD
-https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
-https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/phoenix.png",phoenix
-https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
+#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-#EXTINF:-1 tvg-name="WELT" tvg-id="WELT.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
-https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
-#EXTINF:-1 tvg-name="WELT News (loop)" tvg-id="WELTNewsLoop.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT News (Dauerschleife)
-https://w-news2weltcms.akamaized.net/hls/live/2040885/Welt-NextNews/index.m3u8
-#EXTINF:-1 tvg-name="euronews deutsch" tvg-id="euronews.com" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/euronews.png",euronews deutsch
-https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Bild" tvg-id="BILD.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/BildTV.png",Bild
-https://bild.personalstream.tv/v1/master.m3u8
-#EXTINF:-1 tvg-name="AutoBild" tvg-id="AUTOBILD.de" group-title="Deutsch" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/AutoBildTV.png",AUTO BILD TV
