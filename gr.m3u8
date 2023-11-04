@@ -21,3 +21,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
 https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/russia1.png",Россия 1 HD
+https://salam-2-2.rutube.ru/dive/river-7-702.rutube.ru/V_UqSsrotIKsb0n_ZMxSRg/stream/genetta-518.ost.rutube.ru/wtCjoMeO8SEerPbji2IHGQ/1699205481/03929f2f53f4eeb0c9095043d6c55096/1080p_stream.m3u8
+#EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/channel1.png",Первый канал HD
+https://salam-2-16.rutube.ru/dive/river-3-311.rutube.ru/YcmL6es57ZXAmyNbjZeLJQ/stream/genetta-319.m9.rutube.ru/61RowzZBjTrh3EyP6FhPmw/1699206147/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
