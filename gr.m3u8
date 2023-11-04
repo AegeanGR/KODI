@@ -9,6 +9,8 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/pla
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Alpha HD" tvg-id="alphatv.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",Alpha HD
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="ANT1 HD" tvg-id="ant1.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1 HD
+https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
 #EXTINF:-1 tvg-name="SKAI HD" tvg-id="skai.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/skai.png",SKAI HD
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-name="MEGA HD" tvg-id="megatv.com" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/mega.png",MEGA HD
@@ -17,10 +19,10 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/p
 https://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-name="OPEN TV HD" tvg-id="tvopen.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/opentv.png",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Makedonia TV HD" tvg-id="makedoniatv.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedonia.png",Makedonia TV HD
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
 #EXTINF:-1 tvg-name="Thraki Nea HD" tvg-id="star.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",Thraki Net HD
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
-https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1 HD
 https://salam-2-2.rutube.ru/dive/river-7-702.rutube.ru/V_UqSsrotIKsb0n_ZMxSRg/stream/genetta-518.ost.rutube.ru/wtCjoMeO8SEerPbji2IHGQ/1699205481/03929f2f53f4eeb0c9095043d6c55096/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/channel1.png",Первый канал HD
