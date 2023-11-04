@@ -25,3 +25,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 https://salam-2-2.rutube.ru/dive/river-7-702.rutube.ru/V_UqSsrotIKsb0n_ZMxSRg/stream/genetta-518.ost.rutube.ru/wtCjoMeO8SEerPbji2IHGQ/1699205481/03929f2f53f4eeb0c9095043d6c55096/1080p_stream.m3u8
 #EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/channel1.png",Первый канал HD
 https://salam-2-16.rutube.ru/dive/river-3-311.rutube.ru/YcmL6es57ZXAmyNbjZeLJQ/stream/genetta-319.m9.rutube.ru/61RowzZBjTrh3EyP6FhPmw/1699206147/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+#EXTINF:-1 tvg-name="Домашний" tvg-id="domashniy.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/domashniy.png",Домашний HD
+https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-name="Public TV Company of Armenia" tvg-id="1tv.am" group-title="Հայաստան" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/1v.png",Public TV Company of Armenia HD
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
