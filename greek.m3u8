@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="ERT1 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1 HD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="ERT2 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT 2 HD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="ERT3 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT3.png",ERT 3 HD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="ERT News HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT News HD
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-name="Alpha HD" tvg-id="alphatv.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",Alpha HD
+https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="ANT1 HD" tvg-id="ant1.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1 HD
+https://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna_1.m3u8
+#EXTINF:-1 tvg-name="SKAI HD" tvg-id="skai.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/skai.png",SKAI HD
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
+#EXTINF:-1 tvg-name="MEGA HD" tvg-id="megatv.com" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/mega.png",MEGA HD
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
+#EXTINF:-1 tvg-name="STAR HD" tvg-id="star.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/star.png",STAR HD
+https://livestar.siliconweb.com/media/star1/star1.m3u8
+#EXTINF:-1 tvg-name="OPEN TV HD" tvg-id="tvopen.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/opentv.png",OPEN TV HD
+https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-name="Makedonia TV HD" tvg-id="makedoniatv.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",Makedonia TV HD
+https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv_4.m3u8
+#EXTINF:-1 tvg-name="Thraki Nea HD" tvg-id="star.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",Thraki Net HD
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
