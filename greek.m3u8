@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ERT1 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/ert_ev1_main/main_720/chunks_dvr.m3u8
-#EXTINF:-1 tvg-name="ERT2 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT 2 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/ert_ev2_main/main_720/chunks_dvr.m3u8
-#EXTINF:-1 tvg-name="ERT3 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT3.png",ERT 3 HD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/ert_ev3_main/main_720/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="ERT News HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT News HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/ert_news_main/main_720/chunks_dvr.m3u8
 #EXTINF:-1 tvg-name="Alpha HD" tvg-id="alphatv.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",Alpha HD
