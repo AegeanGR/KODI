@@ -28,7 +28,7 @@ https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 tvg-name="Россия PTP" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russiaptp.png",Россия PTP HD
 https://player.smotrim.ru/iframe/stream/live_id/63254?.m3u8
 #EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/channel1.png",Первый канал HD
-https://salam-2-2.rutube.ru/dive/river-3-311.rutube.ru/z0yB-tCPaoLyjPS8LYwg6w/stream/genetta-520.ost.rutube.ru/7VK26c2Kq-iAVdIxsH1U_A/1700134310/c58f502c7bb34a8fcdd976b221fca292/720p_stream.m3u8
+https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Домашний" tvg-id="domashniy.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/domashniy.png",Домашний HD
 https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Public TV Company of Armenia" tvg-id="1tv.am" group-title="Հայաստան" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/1tv.png",First Channel Armenia HD
