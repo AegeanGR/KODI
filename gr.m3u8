@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Vouli TV" tvg-id="hellenicparliament.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",Vouli TV
+http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-name="ERT1 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1 HD
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="ERT2 HD" tvg-id="ert.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT 2 HD
