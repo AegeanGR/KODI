@@ -35,11 +35,9 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 tvg-name="Россия PTP" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russiaptp.png",Россия PTP HD
 https://player.smotrim.ru/iframe/stream/live_id/63254?.m3u8
-#EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/channel1.png",Первый канал HD
-https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+###EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/channel1.png",Первый канал HD
+###https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Домашний" tvg-id="domashniy.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/domashniy.png",Домашний HD
 https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Public TV Company of Armenia" tvg-id="1tv.am" group-title="Հայաստան" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/1tv.png",First Channel Armenia HD
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Reolink" tvg-id="test.test" group-title="Test" tvg-logo="",Reolink
-rtsp://test:test_123@192.168.2.21
