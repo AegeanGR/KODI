@@ -31,6 +31,8 @@ https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 tvg-name="Thraki Nea HD" tvg-id="star.gr" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",Thraki Net HD
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-name="Delta TV HD" tvg-id="delta.tv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",Delta TV
+http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1 HD
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 tvg-name="Россия PTP" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russiaptp.png",Россия PTP HD
