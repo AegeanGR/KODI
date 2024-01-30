@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα,#genre#" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI TV
+#EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI TV
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
@@ -29,11 +29,11 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
+#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Ελλάδα,Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
+#EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Ελλάδα,Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
+#EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Ελλάδα,Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
