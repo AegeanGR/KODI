@@ -1,10 +1,12 @@
+--------------------------------------------
+#####          GREEK CHANNELS          #####
 ############################################
-| ### | CHANNELS              | FREE | VPN |
-| --- |---------------------- | ---- |-----|
+| ### |        CHANNELS       | FREE | VPN |
+| --- |---------------------- | ---- | --- |
 |  1  | VOULI TV              | YES  | NO  |
-|  2  | ERT 1                 | NO   | NO  |
-|  3  | ERT 2                 | NO   | NO  |
-|  4  | ERT 3                 | NO   | NO  |
+|  2  | ERT 1                 | NO   | YES |
+|  3  | ERT 2                 | NO   | YES |
+|  4  | ERT 3                 | NO   | YES |
 |  5  | ERT News              | YES  | NO  |
 |  6  | ALPHA                 | YES  | NO  |
 |  7  | ANT1                  | YES  | NO  |
@@ -19,9 +21,7 @@
 | 16  | IONIAN                | YES  | NO  |
 | 17  | THRAKI NET            | YES  | NO  |
 | 18  | DELTA TV              | YES  | NO  |
-| 19  | Россия 1              | YES  | NO  |
-| 20  | Россия PTP            | YES  | NO  |
-| 21  | Первый канал          | YES  | NO  |
-| 22  | Домашний              | YES  | NO  |
-| 23  | First Channel Armenia | YES  | NO  |
 ############################################
+
+--------------------------------------------
+
