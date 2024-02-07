@@ -43,7 +43,5 @@ https://player.smotrim.ru/iframe/stream/live_id/63254?.m3u8
 ###https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Домашний" tvg-id="domashniy.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/domashniy.png",Домашний
 https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-name="TNT" tvg-id="tnt" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/tnt.png",TNT
-https://ok.ru/video/7532133162616
 #EXTINF:-1 tvg-name="Public TV Company of Armenia" tvg-id="1tv.am" group-title="Հայաստան" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/1tv.png",First Channel Armenia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
