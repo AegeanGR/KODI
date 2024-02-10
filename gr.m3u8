@@ -9,6 +9,10 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/pla
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsport1.png",ERT WORLD
+https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd
+
 #EXTINF:-1 tvg-name="alpha" tvg-id="alphat" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
@@ -27,16 +31,34 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="onetv" tvg-id="onetv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/one.png",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
+
+#EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Αττική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
+
+#EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Ελλάδα,Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
+
+#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Ελλάδα,Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
+
+#EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Ελλάδα,Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
+#EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsport1.png",ERT SPORT 1
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/manifest.mpd
+#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsport2.png",ERT SPORT 2
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/manifest.mpd
+#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsport3.png",ERT SPORT 3
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/manifest.mpd
+#EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
+https://streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/manifest.mpd
+#EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC TV
+https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/manifest.mpd
+#EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS TV
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/manifest.mpd
+
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 tvg-name="Россия PTP" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russiaptp.png",Россия PTP
@@ -44,6 +66,9 @@ https://player.smotrim.ru/iframe/stream/live_id/63254?.m3u8
 ###EXTINF:-1 tvg-name="Первый канал" tvg-id="channel1.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/channel1.png",Первый канал
 ###https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Домашний" tvg-id="domashniy.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/domashniy.png",Домашний
-https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
+###https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Public TV Company of Armenia" tvg-id="1tv.am" group-title="Հայաստան" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/1tv.png",First Channel Armenia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
+
+
