@@ -8,7 +8,7 @@ https://telmacosa.s.llnwi.net/ertlive/ert2/default/index.mpd
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT3.png",ERT 3
 https://telmacosa.s.llnwi.net/ertlive/ert3/default/index.mpd
 #EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
+https://telmacosa.s.llnwi.net/ertlive/ertnews/default/index.mpd
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
 https://telmacosa.s.llnwi.net/ertlive/ertworld/default/index.mpd
 #EXTINF:-1 tvg-name="alpha" tvg-id="alphat" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",ALPHA
