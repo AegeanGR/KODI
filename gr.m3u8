@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI TV
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
+https://telmacosa.s.llnwi.net/ertlive/ert1/default/index.mpd
 #EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT 2
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert2/ert_ev2_main/mainabr/playlist_dvr.m3u8
+https://telmacosa.s.llnwi.net/ertlive/ert2/default/index.mpd
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT3.png",ERT 3
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert3/ert_ev3_main/mainabr/playlist_dvr.m3u8
+https://telmacosa.s.llnwi.net/ertlive/ert3/default/index.mpd
 #EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
