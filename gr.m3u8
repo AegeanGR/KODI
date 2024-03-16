@@ -46,11 +46,11 @@ https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/main
 #EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORT 3
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/manifest.mpd
 #EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
-https://streamcdnh6-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S14056690/bFJBI4yhRh7E/manifest.mpd
+https://telmacosa.s.llnwi.net/ertlive/eurovision/default/index.mpd
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC TV
-https://streamcdnh2-ab09fbb9b38043f78ef1e1884b2f8013.msvdn.net/live/S11906356/OllOZuw9jfgd/manifest.mpd
+https://telmacosa.s.llnwi.net/ertlive/music/default/index.mpd
 #EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS TV
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/mainabr/manifest.mpd
+https://telmacosa.s.llnwi.net/ertlive/kids/default/index.mpd
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1 tvg-name="Россия PTP" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russiaptp.png",Россия PTP
