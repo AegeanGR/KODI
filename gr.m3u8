@@ -41,10 +41,10 @@ https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORT 1
 https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
-####EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORT 2
-###https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/manifest.mpd
-####EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORT 3
-####https://cbd537474fbad4634b64787657ff6456.msvdn.net/sports3/ert_sports3_main/mainabr/manifest.mpd
+#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORT 2
+https://telmacosa.s.llnwi.net/ertlive/ertsports2/default/index.mpd
+#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORT 3
+https://telmacosa.s.llnwi.net/ertlive/ertsports3/default/index.mpd
 #EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
 https://telmacosa.s.llnwi.net/ertlive/eurovision/default/index.mpd
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC TV
