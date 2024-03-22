@@ -61,7 +61,7 @@ https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 ####
-#EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/arttv.png",ART TV
+#EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/art.png",ART TV
 https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
 ####RUSSIA AND ARMENIA############################################################################################################################################################
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1
