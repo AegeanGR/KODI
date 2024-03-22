@@ -30,16 +30,8 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="onetv" tvg-id="onetv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/one.png",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Αττική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
-https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
-https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-#EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
-https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
-#EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
-http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
 ####GREEK VPN#####################################################################################################################################################################
 #EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORT 1
 https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
@@ -53,6 +45,24 @@ https://telmacosa.s.llnwi.net/ertlive/eurovision/default/index.mpd
 https://telmacosa.s.llnwi.net/ertlive/music/default/index.mpd
 #EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS TV
 https://telmacosa.s.llnwi.net/ertlive/kids/default/index.mpd
+####GREEK REGIONAL FREE############################################################################################################################################################
+####THRAKI
+#EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
+https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
+#EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
+http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
+####ATTIKI
+#EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Αττική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
+https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+####EPIRUS
+#EXTINF:-1 tvg-name="epirustv1" tvg-id="epirustv1" group-title="Ήπειρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/epirus.png",EPIRUS TV1
+https://til.pp.ua:3928/live/epiruslive.m3u8
+####IONIAN
+#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+####
+#EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/arttv.png",ART TV
+https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
 ####RUSSIA AND ARMENIA############################################################################################################################################################
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
