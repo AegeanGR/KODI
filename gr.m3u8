@@ -33,11 +33,11 @@ https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
 ####GREEK VPN#####################################################################################################################################################################
-#EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORT 1
+#EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
 https://telmacosa.s.llnwi.net/ertlive/ertsports1/default/index.mpd
-#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORT 2
+#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
 https://telmacosa.s.llnwi.net/ertlive/ertsports2/default/index.mpd
-#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORT 3
+#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
 https://telmacosa.s.llnwi.net/ertlive/ertsports3/default/index.mpd
 #EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
 https://telmacosa.s.llnwi.net/ertlive/eurovision/default/index.mpd
@@ -46,7 +46,7 @@ https://telmacosa.s.llnwi.net/ertlive/music/default/index.mpd
 #EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS TV
 https://telmacosa.s.llnwi.net/ertlive/kids/default/index.mpd
 ####GREEK REGIONAL FREE############################################################################################################################################################
-#EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",Ecclessia TV
+#EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",ECCLESSIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 ####THRAKI
 #EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
