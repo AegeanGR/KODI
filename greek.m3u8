@@ -32,7 +32,7 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="onetv" tvg-id="onetv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/one.png",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="alphacy" tvg-id="alphacy" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphacy.png",ALPHA CY
-https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC83LzIwMjQgNjozNzoyNiBQTSZoYXNoX3ZhbHVlPUNqenAxT0hEbFArTFFFNFMxd1JCclE9PSZ2YWxpZG1pbnV0ZXM9MzA=
+http://l4.cloudskep.com/alphatmp/acy/playlist.m3u8
 #EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Αττική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
