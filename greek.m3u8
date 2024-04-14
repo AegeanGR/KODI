@@ -45,7 +45,13 @@ https://stream.ioniantv.gr/ionian/live_abr/ionian/live_720p/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
+####KRITI
 #EXTINF:-1 tvg-name="krhthtv" tvg-id="krhthtv" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/krititv.png",KPHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="krhthtv1" tvg-id="krhthtv1" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kriti1.png",KPHTH 1
+https://livetv.streams.ovh:8081/kriti/index.m3u8
+#EXTINF:-1 tvg-name="creta" tvg-id="creta" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/creta.png",CRETA
+https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+####SPORT
 #EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
