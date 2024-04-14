@@ -10,7 +10,7 @@ https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI
-https://ertflix.s.llnwi.net/ertlive/vouli/default/index.m3u8
+https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",ECCLESSIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 tvg-name="alpha" tvg-id="alphat" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",ALPHA
