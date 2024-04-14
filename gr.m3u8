@@ -72,6 +72,10 @@ https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/playlist.m3u8
 ####KRITI
 #EXTINF:-1 tvg-name="krhthtv" tvg-id="krhthtv" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/krititv.png",KPHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="krhthtv1" tvg-id="krhthtv1" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kriti1.png",KPHTH 1
+https://livetv.streams.ovh:8081/kriti/index.m3u8
+#EXTINF:-1 tvg-name="creta" tvg-id="creta" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/creta.png",CRETA
+https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
 ####
 #EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/art.png",ART TV
 https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
