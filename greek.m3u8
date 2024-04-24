@@ -39,8 +39,8 @@ https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="paniktv" tvg-id="paniktv" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/paniktv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-###EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
-###https://stream.ioniantv.gr/ionian/live_abr/ionian/live_720p/playlist.m3u8
+#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
+https://stream.ioniantv.gr/ionian/live_abr/ionian/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
