@@ -30,55 +30,58 @@ https://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/mak
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="onetv" tvg-id="onetv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/one.png",ONE CHANNEL
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
+#####
+#####MUSIC
 #EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
 https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="paniktv" tvg-id="paniktv" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/paniktv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#####EXTINF:-1 tvg-name="alphacy" tvg-id="alphacy" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphacy.png",ALPHA CY
-####https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjQgNTo1OToxNCBQTSZoYXNoX3ZhbHVlPVhONzRadVdBdFhETklnRS9iL2FCZVE9PSZ2YWxpZG1pbnV0ZXM9MzA=
-####GREEK VPN#####################################################################################################################################################################
-#EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
-https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
-#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
-https://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
-#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
-https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
-#EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
-https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
+#####MUSIC_VPN
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC
 https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
-#EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS
-https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
-#EXTINF:-1 tvg-name="rik1" tvg-id="rik1" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/riksat.png",RIK SAT
-https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
-####GREEK REGIONAL FREE############################################################################################################################################################
+#EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
+https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
+####
+####GREEK_REGIONAL_FREE############################################################################################################################################################
 #EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",ECCLESSIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
-####THRAKI
+#####THRAKI
 #EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
-####ATTIKI
+#####ATTIKI
 #EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Αττική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
 https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-####EPIRUS
+#####EPIRUS
 #EXTINF:-1 tvg-name="epirustv1" tvg-id="epirustv1" group-title="Ήπειρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/epirus.png",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
-####IONIAN
+#####IONIAN
 #EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
 https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/playlist.m3u8
 ###https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
-####KRITI
+#####KRITI
 #EXTINF:-1 tvg-name="krhthtv" tvg-id="krhthtv" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/krititv.png",KPHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="krhthtv1" tvg-id="krhthtv1" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kriti1.png",KPHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 tvg-name="creta" tvg-id="creta" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/creta.png",CRETA
 https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
-####
+#####
 #EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/art.png",ART TV
 https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
+####
+####GREEK VPN#####################################################################################################################################################################
+#EXTINF:-1 tvg-name="rik1" tvg-id="rik1" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/riksat.png",RIK SAT
+https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
+#EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS
+https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
+#EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
+https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
+#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
+https://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
+#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
+https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 ####RUSSIA AND ARMENIA############################################################################################################################################################
 #EXTINF:-1 tvg-name="Россия 1" tvg-id="russia.ru" group-title="Россия" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/russia1.png",Россия 1
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
