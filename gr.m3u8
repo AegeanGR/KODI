@@ -45,9 +45,9 @@ https://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
 https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 #EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
 https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
-#EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC TV
+#EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC
 https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
-#EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS TV
+#EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS
 https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
 #EXTINF:-1 tvg-name="rik1" tvg-id="rik1" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/riksat.png",RIK SAT
 https://ertflix.s.llnwi.net/ertlive/rik/default/index.m3u8
