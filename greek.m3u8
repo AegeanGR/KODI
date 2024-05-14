@@ -55,6 +55,9 @@ https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
 ####EPIRUS
 #EXTINF:-1 tvg-name="epirustv1" tvg-id="epirustv1" group-title="Ήπειρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/epirus.png",EPIRUS TV1
 https://til.pp.ua:3928/live/epiruslive.m3u8
+####CYPRUS
+#EXTINF:-1 tvg-name="rik1" tvg-id="rik1" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/riksat.png",RIK SAT
+http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 ####SPORT
 #EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
