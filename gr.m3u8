@@ -68,6 +68,8 @@ https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 tvg-name="creta" tvg-id="creta" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/creta.png",CRETA
 https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 tvg-name="nea" tvg-id="nea" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/nea.png",NEA
+https://live.neatv.gr:8888/hls/neatv_src/index.m3u8
 #####
 #EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/art.png",ART TV
 https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
