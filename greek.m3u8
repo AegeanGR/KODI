@@ -63,3 +63,17 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 ####SPORT
 #EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
 https://ertflix.s.llnwi.net/ertlive/ertsports1/default/index.m3u8
+#
+##########################################Deutsch##
+#EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/de/daserste.png",DAS ERSTE
+https://mcdn.daserste.de/daserste/de/master.m3u8
+#EXTINF:-1 tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/de/zdf.png",ZDF
+https://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="3sat" tvg-id="3sat.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/de/3sat.png",3sat
+https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
+#EXTINF:-1 tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/de/arte.png",ARTE
+https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/master.m3u8
+#EXTINF:-1 tvg-name="DF1 HD" tvg-id="DF1.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/df1.png",DF1
+https://dbjwcot8t7nyd.cloudfront.net/out/v1/9d068a9428444b458324ad77b5a0a4b8/index.m3u8
+#EXTINF:-1 tvg-name="ARD-alpha" tvg-id="ARD-alpha.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/de/ardalpha.png",ARD-alpha
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
