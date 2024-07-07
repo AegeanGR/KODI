@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1
-https://ertflix.s.llnwi.net/ertlive/ert1/default/index.m3u8
+https://ertflix.s.llnwi.net/ertlive/ert1/encdef/index.m3u8
 #EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT 2
 https://ertflix.s.llnwi.net/ertlive/ert2/default/index.m3u8
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT3.png",ERT 3
