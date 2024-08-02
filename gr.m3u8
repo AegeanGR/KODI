@@ -40,8 +40,8 @@ https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #####MUSIC_VPN
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC
 https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
-#EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
-https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
+###EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
+###https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
 ####
 ####GREEK_REGIONAL_FREE############################################################################################################################################################
 #EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",ECCLESSIA TV
@@ -72,7 +72,8 @@ https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_src/index.m3u8
 #####
 #EXTINF:-1 tvg-name="art" tvg-id="art" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/art.png",ART TV
-https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
+https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-96/gb31-fcap_1080p/chunklist_DVR.m3u8
+###https://rumble.com/live-hls-dvr/4hswzr/playlist.m3u8
 ####
 ####GREEK VPN#####################################################################################################################################################################
 #EXTINF:-1 tvg-name="rik1" tvg-id="rik1" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/riksat.png",RIK SAT
