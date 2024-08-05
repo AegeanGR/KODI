@@ -44,7 +44,7 @@ https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
 ###https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
 ####
 ####GREEK_REGIONAL_FREE############################################################################################################################################################
-#EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",ECCLESSIA TV
+#EXTINF:-1 tvg-name="ecclessia" tvg-id="ecclessia" group-title="Εκκλησία" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/Ecclessia.png",ECCLESIA TV
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #####THRAKI
 #EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
