@@ -63,6 +63,8 @@ https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 https://til.pp.ua:3928/live/epiruslive.m3u8
 #####IONIAN
 #EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/playlist.m3u8
 ###https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #####KRITI
