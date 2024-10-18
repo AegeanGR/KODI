@@ -1,6 +1,6 @@
 #EXTM3U
-###EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
-###https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
+EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
+https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI
@@ -21,7 +21,7 @@ https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 #EXTINF:-1 tvg-name="open" tvg-id="open" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/opentv.png",OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="mtv" tvg-id="mtv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",MAK TV
-#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream=inputstream.ffmpegdirect
 http://mcdn.antennaplus.gr/live/media0/MAK/HLS/index.m3u8
 #EXTINF:-1 tvg-name="action24" tvg-id="action24" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
@@ -41,6 +41,10 @@ https://stream.ioniantv.gr/ionian/live_abr/ionian/live_720p/playlist.m3u8
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
 http://81.171.10.42:1935/liveD/smil:DStream.sdp.smil/playlist.m3u8
+#####IONIAN
+#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
+#KODIPROP:inputstream=inputstream.adaptive
+https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/playlist.m3u8
 ####KRITI
 #EXTINF:-1 tvg-name="krhthtv" tvg-id="krhthtv" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/krititv.png",KPHTH TV
 https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
