@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
+#EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS1
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
@@ -11,6 +11,7 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
 #KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.live=true
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
 #EXTINF:-1 tvg-name="skai" tvg-id="skai" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/skai.png",SKAI
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
