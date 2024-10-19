@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS2
+#EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS3
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
@@ -25,7 +25,7 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.seekable=false
-#KODIPROP:inputstream.adaptive.live=true
+#KODIPROP:inputstream.adaptive.is_live=true
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/index.m3u8
 #EXTINF:-1 tvg-name="action24" tvg-id="action24" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
