@@ -11,7 +11,6 @@ https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_mode=
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/index.m3u8
 #EXTINF:-1 tvg-name="skai" tvg-id="skai" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/skai.png",SKAI
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
@@ -23,8 +22,6 @@ https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="mtv" tvg-id="mtv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",MAK TV
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_mode=live
 https://mcdn.antennaplus.gr/live/media0/MAK/HLS/index.m3u8
 #EXTINF:-1 tvg-name="action24" tvg-id="action24" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
