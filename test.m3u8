@@ -7,7 +7,10 @@
 #KODIPROP:inputstream.ffmpegdirect.playback_as_live=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
-#EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
+#EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD1
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=application/x-mpegURL
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
 #EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
