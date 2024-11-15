@@ -31,3 +31,5 @@ Mein Fire TV > Entwickleroptionen
 4.2  "Andorid" > "ARMV7 (32BIT)" auswählen und herunterladen
 4.3  Nach der Installation kann die .apk Datei gelöscht werden
 KODI ist installiert und kann nun zum Startbildschirm hinzugefügt werden
+
+5.  KODI starten
