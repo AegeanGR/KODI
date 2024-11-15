@@ -1,0 +1,33 @@
+### How to Install Fire TV Stick with KODI ### 11/2024 ###
+
+1. Einstellungen
+Töne und Bildschirm > Bildschirm
+  Ggfs. "Bildschirm kalibrieren"
+  Ggfs. HDMI CEC einstellen
+
+Benutzereinstellungen > Dateschutzeinstellungen
+  Zustimmung zu Cookies         AUS
+  Gerätenutzungsdaten           AUS
+  App-Nutzungsdaten sammeln     AUS
+  Amazon Photos                 deaktiviert
+  Amazon Photos                 AUS
+  Personalisierte Werbung       AUS
+
+Benutzereinstellungen > Empfohlene Inhalte
+  Automatische Videowiedergabe  AUS
+  Automatische Audiowiedergabe  AUS
+
+2. App Store aufrufen und "Downloader"-App installieren.
+
+3. Einstellungen
+Mein Fire TV > Info
+  Entwickler Modus aktivieren: 7x auf Gerätenamen/typ klicken
+Mein Fire TV > Entwickleroptionen
+  ADB-Debugging                              AN
+  Unbekannte Apps installieren > Downloader  AN
+
+4.   "Downloader"-App starten und im "Browser" nach "kodi.tv" suchen
+4.1  runterscrollen und auf "Download now" klicken
+4.2  "Andorid" > "ARMV7 (32BIT)" auswählen und herunterladen
+4.3  Nach der Installation kann die .apk Datei gelöscht werden
+KODI ist installiert und kann nun zum Startbildschirm hinzugefügt werden
