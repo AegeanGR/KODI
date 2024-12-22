@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="kamera1" tvg-id="kamera1" group-title="Kamera" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kamera.png",Kamera Flur
 rtsp://user:test1234@192.168.2.21
+#EXTINF:-1 tvg-name="kamera1" tvg-id="kamera1" group-title="Kamera" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kamera.png",Kamera Flur 1
+rtsp://user:test1234@192.168.2.21:554/h265Preview_01_main
