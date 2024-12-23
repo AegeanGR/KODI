@@ -9,4 +9,8 @@ https://player.smotrim.ru/iframe/stream/live_id/63254?.m3u8
 ###https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v4a1/mono.m3u8
 #EXTINF:-1 tvg-name="Public TV Company of Armenia" tvg-id="1tv.am" group-title="Հայաստան" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/1tv.png",First Channel Armenia
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="kamera1" tvg-id="kamera1" group-title="Kamera" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kamera.png",Kamera Flur
+rtsp://user:test1234@192.168.2.21
+#EXTINF:-1 tvg-name="kamera1" tvg-id="kamera1" group-title="Kamera" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/kamera.png",Kamera Flur 1
+rtsp://user:test1234@192.168.2.21:554/h265Preview_01_main
 #####
