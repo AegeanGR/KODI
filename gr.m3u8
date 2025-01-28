@@ -1,17 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="ert1" tvg-id="ert1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT1.png",ERT 1
-https://ertflix.s.llnwi.net/ertlive/ert1/clrdef24723b/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 tvg-name="ert2" tvg-id="ert2" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT2.png",ERT 2
-https://ertflix.s.llnwi.net/ertlive/ert2/clrdef24828z/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
 #EXTINF:-1 tvg-name="ert3" tvg-id="ert3" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT3.png",ERT 3
-https://ertflix.s.llnwi.net/ertlive/ert3/clrdef24828n/index.m3u8
+https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
 ####GREEK FREE####################################################################################################################################################
 #EXTINF:-1 tvg-name="ertnews" tvg-id="ertnews" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ERT.png",ERT NEWS
-https://ertflix.s.llnwi.net/ertlive/ertnews/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ertnews/default/playlist.m3u8
 #EXTINF:-1 tvg-name="ertworld" tvg-id="ertworld" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertworld.png",ERT WORLD
-https://ertflix.s.llnwi.net/ertlive/ertworld/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 #EXTINF:-1 tvg-name="vouli" tvg-id="vouli" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/vouli.png",VOULI TV
-https://ertflix.s.llnwi.net/ertlive/vouli/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1 tvg-name="alpha" tvg-id="alphat" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphahd.png",ALPHA
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="ant1" tvg-id="ant1" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ant1.png",ANT1
@@ -29,8 +29,8 @@ https://livestar.siliconweb.com/starvod/star4/star4newhd.m3u8
 #EXTINF:-1 tvg-name="open" tvg-id="open" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/opentv.png",OPEN TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-name="mtv" tvg-id="mtv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/makedoniatv.png",MAK TV
-#KODIPROP:inputstream=inputstream.adaptive
-https://mcdn.antennaplus.gr/live/media0/MAK/HLS/index.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/master/Metadoseis/maktv.m3u8
+######KODIPROP:inputstream=inputstream.adaptive
 #EXTINF:-1 tvg-name="action24" tvg-id="action24" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/action24.png",ACTION 24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 tvg-name="onetv" tvg-id="onetv" group-title="Ελλάδα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/one.png",ONE CHANNEL
@@ -43,7 +43,7 @@ https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #####MUSIC_VPN
 #EXTINF:-1 tvg-name="ertmusic" tvg-id="ertmusic" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixmusic.png",ERT MUSIC
-https://ertflix.s.llnwi.net/ertlive/music/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 ###EXTINF:-1 tvg-name="eurovision" tvg-id="eurovision" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/eurovision.png",EUROVISION CHANNEL
 ###https://ertflix.s.llnwi.net/ertlive/eurovision/default/index.m3u8
 ####
@@ -84,13 +84,13 @@ https://hugh.cdn.rumble.cloud/live/k5e12sb4/slot-96/gb31-fcap_1080p/chunklist_DV
 #EXTINF:-1 tvg-name="rik1" tvg-id="rik1" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/riksat.png",RIK SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-name="ertkids" tvg-id="ertkids" group-title="Παιδικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertflixkids.png",ERT KIDS
-https://ertflix.s.llnwi.net/ertlive/kids/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 tvg-name="ertsports" tvg-id="ertsports" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports1.png",ERT SPORTS 1
-https://ertflix.s.llnwi.net/ertlive/ertsports1/clrdef24724a/index.m3u8
+https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 #EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Ειδήσεις" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/euronews.png",EURONEWS GREECE
-https://ertflix.s.llnwi.net/ertlive/euronewsgr/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
 ###EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
-###https://ertflix.s.llnwi.net/ertlive/ertsports2/default/index.m3u8
+https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 ###EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
 ###https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
 
