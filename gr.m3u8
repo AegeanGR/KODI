@@ -89,7 +89,7 @@ https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
 #EXTINF:-1 tvg-name="euronews" tvg-id="euronews" group-title="Ειδήσεις" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/euronews.png",EURONEWS GREECE
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
-###EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
+#EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
 https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
 ###EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
 ###https://ertflix.s.llnwi.net/ertlive/ertsports3/default/index.m3u8
