@@ -1,36 +1,40 @@
---------------------------------------------
-#####          GREEK CHANNELS          #####
-############################################
-| ### |        CHANNELS       | FREE | VPN |
-| --- |---------------------- | ---- | --- |
-|  1  | VOULI TV              | YES  | NO  |
-|  2  | ERT 1                 | NO   | YES |
-|  3  | ERT 2                 | NO   | YES |
-|  4  | ERT 3                 | NO   | YES |
-|  5  | ERT News              | YES  | NO  |
-|  6  | ALPHA                 | YES  | NO  |
-|  7  | ANT1                  | YES  | NO  |
-|  8  | SKAI                  | YES  | NO  |
-|  9  | MEGA                  | YES  | NO  |
-| 10  | STAR                  | YES  | NO  |
-| 11  | OPEN TV               | YES  | NO  |
-| 12  | MAKEDONIA TV          | YES  | NO  |
-| 13  | ACTION 24             | YES  | NO  |
-| 14  | ONE CHANNEL           | YES  | NO  |
-| 15  | ATTICA TV             | YES  | NO  |
-| 16  | IONIAN                | YES  | NO  |
-| 17  | THRAKI NET            | YES  | NO  |
-| 18  | DELTA TV              | YES  | NO  |
-############################################
-____________________________________________
 
-#####         RUSSIAN CHANNELS         #####
-############################################
-| ### |        CHANNELS       | FREE | VPN |
-| --- |---------------------- | ---- | --- |
-| 19  | Россия 1              | YES  | NO  |
-| 20  | Россия PTP            | YES  | NO  |
-| 21  | Первый канал          | YES  | NO  |
-| 22  | Домашний              | YES  | NO  |
-| 23  | First Channel Armenia | YES  | NO  |
+#### GREEK CHANNELS          
 
+## With VPN use /gr.m3u8
+| ### |        CHANNELS       |
+| --- |---------------------- |
+|  1  | ERT 1                 |
+|  2  | ERT 2                 |
+|  3  | ERT 3                 |
+|  4  | ERT NEWS              |
+|  5  | ERT WORLD             |
+|  6  | VOULI TV              |
+|  7  | ALPHA                 |
+|  8  | ANT1                  |
+|  9  | SKAI                  |
+| 10  | MEGA                  |
+| 11  | STAR                  |
+| 12  | OPEN TV               |
+| 13  | MAK TV                |
+| 14  | ACTION 24             |
+| 15  | ONE CHANNEL           |
+| 16  | MAD WORLD             |
+| 17  | PANIK TV              |
+| 18  | ERT MUSIC             |
+| 19  | ECCLESIA TV           |
+| 20  | THRAKI NET            |
+| 21  | DELTA TV              |
+| 22  | ATTICA TV             |
+| 23  | EPIRUS TV1            |
+| 24  | IONIAN                |
+| 25  | KPHTH TV              |
+| 26  | KPHTH 1               |
+| 27  | CRETA                 |
+| 28  | NEA                   |
+| 29  | ART TV                |
+| 30  | RIK SAT               |
+| 31  | ERT KIDS              |
+| 32  | ERT SPORTS 1          |
+| 33  | EURONEWS GREECE       |
+| 34  | ERT SPORTS 2          |
