@@ -1,8 +1,8 @@
 
-### GREEK CHANNELS          
+# GREEK CHANNELS          
 
-# With Greek VPN use /gr.m3u8
-| ### |        CHANNELS       |
+### With Greek VPN use /gr.m3u8
+| ID |        CHANNELS       |
 | --- |---------------------- |
 |  1  | ERT 1                 |
 |  2  | ERT 2                 |
@@ -41,7 +41,7 @@
 
 ---
 
-# You can use this without VPN (outside from Greece)
+### You can use this without VPN (outside from Greece)
 
 | ### |        CHANNELS       | LOGO |
 | --- |---------------------- | ---- |
