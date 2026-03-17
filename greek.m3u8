@@ -37,21 +37,16 @@ https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 https://onechannel.siliconweb.com/one/stream/playlist_dvr.m3u8
 #####EXTINF:-1 tvg-name="alphacy" tvg-id="alphacy" group-title="Κύπρος" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/alphacy.png",ALPHA CY
 #####https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC85LzIwMjQgOToxNDo0OSBBTSZoYXNoX3ZhbHVlPUQrN3FWZ3dVVEx0ODYwRkR1Y3BhbEE9PSZ2YWxpZG1pbnV0ZXM9MzA=
-#EXTINF:-1 tvg-name="atticatv" tvg-id="atticatv" group-title="Αττική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/attica.png",ATTICA TV
-https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
 #EXTINF:-1 tvg-name="mad" tvg-id="mad" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/madworld.png",MAD WORLD
-https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
+https://ellastvmax.gotdns.com/freetv/madworldtv/index.m3u8
 #EXTINF:-1 tvg-name="paniktv" tvg-id="paniktv" group-title="Μουσική" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/paniktv.png",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
-https://stream.ioniantv.gr/ionian/live_abr/ionian/live_720p/playlist.m3u8
 #EXTINF:-1 tvg-name="thrakinet" tvg-id="thrakinet" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/thrakinet.png",THRAKI NET
 https://cdn.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8
 #EXTINF:-1 tvg-name="deltatv" tvg-id="deltatv" group-title="Θράκη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/delta.png",DELTA TV
 http://81.171.10.42:1935/liveD/DStream.sdp/playlist.m3u8
 #####IONIAN
 #EXTINF:-1 tvg-name="ionian" tvg-id="ionian" group-title="Κέρκυρα" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ionian.png",IONIAN
-#KODIPROP:inputstream=inputstream.adaptive
 https://stream.ioniantv.gr/ionian/live_abr/ionian/live_1080p/playlist.m3u8
 ####KRITI
 #EXTINF:-1 tvg-name="krhthtv" tvg-id="krhthtv" group-title="Κρήτη" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/krititv.png",KPHTH TV
