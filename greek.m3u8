@@ -75,7 +75,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTKids/default/index.m3u8
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.m3u8
 #EXTINF:-1 tvg-name="ertsports2" tvg-id="ertsports2" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports2.png",ERT SPORTS 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports2/default/index.m3u8
-###EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
+#EXTINF:-1 tvg-name="ertsports3" tvg-id="ertsports3" group-title="Αθλητικά" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/ertsports3.png",ERT SPORTS 3
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports3/default/index.m3u8
 ##########################################Deutsch##
 #EXTINF:-1 tvg-name="Das Erste HD" tvg-id="DasErste.de" group-title="Deutschland" tvg-logo="https://raw.githubusercontent.com/AegeanGR/KODI/main/Logo/de/daserste.png",DAS ERSTE
